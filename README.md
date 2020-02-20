@@ -18,3 +18,7 @@ In this project, simple linear regression model is created by two  methods:
  #using_lib.py
  This file contains code which uses sklearn library. LinearRegression class is imported from the sub module of sklearn, linear_model.
   >sklearn is the library used for creating most of the machine learning models.
+
+#plot_graph.py
+This file will plot the line on the graph which is the best fit for the given dataset.
+
