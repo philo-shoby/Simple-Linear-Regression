@@ -22,3 +22,5 @@ In this project, simple linear regression model is created by two  methods:
 # plot_graph.py
 This file will plot the line on the graph which is the best fit for the given dataset.
 
+# Dataset used
+[kc_house_data.csv](https://www.kaggle.com/shivachandel/kc-house-data)
