@@ -1,4 +1,4 @@
-# Simple-Linear-Regression
+# Simple Linear Regression
 Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. Based on the given data points, we try to plot a line that models the points the best. The line can be modelled based on the linear equation shown below.
 
  **y=mx+b** 
